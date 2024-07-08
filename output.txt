@@ -1,0 +1,4 @@
+Parcurgere in latime (BF):
+0 2 3 1 
+Parcurgere in adancime (DF):
+0 2 3 1 
